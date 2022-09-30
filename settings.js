@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94753420144'
+global.REACT_NUMBER = '94743620791'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94753420144'] //ur owner number
-global.ownername = "SenuBoy" //ur owner name
-global.ytname = "YT: SenuBoy" //ur yt chanel name
+global.vcardowner = ['94743620791'] //ur owner number
+global.ownername = "𝙽𝙸𝙼𝚂𝙰𝚁𝙰" //ur owner name
+global.ytname = "https://youtube.com/channel/UCXpYoBO0Jcx3rQ65C1a85Jg" //ur yt chanel name
 global.socialm = "GitHub: SenuBoy" //ur github or insta name
-global.location = "SriLanka, Kaluthara, Panadura" //ur location
+global.location = "SriLanka, Anuradhapura, Nochchiyagama" //ur location
 
 //bot bomdy 
-global.owner = ['94753420144']
-global.ownertag = '94753420144' //ur tag number
-global.botname = 'Queen-Melissa-Beta' //ur bot name
+global.owner = ['94743620791']
+global.ownertag = '94743620791' //ur tag number
+global.botname = '𝔹𝕃𝔸ℂ𝕂 ℕ𝕀𝕄𝕊𝔸ℝ𝔸𝕄𝔻 𝔹𝕆𝕋' //ur bot name
 global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
+global.websitex = "https://youtube.com/channel/UCXpYoBO0Jcx3rQ65C1a85Jg" //ur website to be displayed
 global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
 global.reactmoji = "💖" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Queen-Melissa-Beta" //ur sticker watermark packname
-global.author = "SenuBoy" //ur sticker watermark author
+global.packname = "𝕄𝔻𝔹𝕆𝕋 " //ur sticker watermark packname
+global.author = "ℕ𝕀𝕄𝕊𝔸ℝ𝔸𝕄𝔻𝔹𝕆𝕋" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94753420144'] //ur premium numbers
+global.premium = ['94743620761'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -85,14 +85,14 @@ global.antitags = true
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⚜'
 global.mess = {
-    success: 'Done ✓',
+    success: '𝙳𝚘𝚗𝚎 ✅',
     admin: 'This Feature Is Only For Admin! 🇱🇰',
     botAdmin: 'Bot Must Be Admin First! 🇱🇰',
     owner: 'This Feature Is Only For Owner! 🇱🇰',
     group: 'Feature Used Only For Groups! 🇱🇰',
     private: 'Features Used Only For Private Chat! 🇱🇰',
     bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
+    wait: ' 𝚆𝚊𝚒𝚝 𝚖𝚒𝚗𝚒𝚝𝚜 🇱🇰',
     linkm: 'Where is the link? 🇱🇰',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
